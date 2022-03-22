@@ -1,0 +1,15 @@
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\bin\Debug\SolDeInvierno.exe.config
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\bin\Debug\SolDeInvierno.exe
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\bin\Debug\SolDeInvierno.pdb
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\obj\Debug\SolDeInvierno.csproj.AssemblyReference.cache
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\obj\Debug\SolDeInvierno.csproj.SuggestedBindingRedirects.cache
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\obj\Debug\SolDeInvierno.Agregar.resources
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\obj\Debug\SolDeInvierno.Form1.resources
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\obj\Debug\SolDeInvierno.Properties.Resources.resources
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\obj\Debug\SolDeInvierno.csproj.GenerateResource.cache
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\obj\Debug\SolDeInvierno.csproj.CoreCompileInputs.cache
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\obj\Debug\SolDeInvierno.exe
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\obj\Debug\SolDeInvierno.pdb
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\obj\Debug\SolDeInvierno.Consultar.resources
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\obj\Debug\SolDeInvierno.Eliminar.resources
+C:\Users\osval\OneDrive\Desktop\SolDeInvierno\SolDeInvierno\obj\Debug\SolDeInvierno.Modificar.resources
